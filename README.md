@@ -3,6 +3,12 @@
 Welcome to the **E-commerce Website**, a full-stack platform built with the MERN stack. This website offers users an intuitive shopping experience with secure user authentication, a dynamic product catalog, and seamless order management.  
 
 ---
+🎥 Video Explanation
+Watch the detailed explanation of the project here.
+
+[Watch the Demo Video](https://drive.google.com/file/d/1x1Mx_BnOusDa875OR8bdUOqV1XwqqBIe/view?usp=sharing)
+
+-----
 
 ## 🚀 Features  
 - **User Authentication:** Sign up, log in, and log out securely with **Spring Security**.  
@@ -53,22 +59,29 @@ The website is built as a full-stack application where the frontend, backend, an
 ## 📸 Screenshots  
 
 ### **Homepage**  
-![Homepage Screenshot](https://raw.githubusercontent.com/ARMAN8910/ecommerce/your-hash/homepage.png)  
+![Homepage Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p1.png)  
+![Homepage Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p2.png) 
+![Homepage Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p3.png) 
+ 
+![Homepage Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p4.png)  
+
 
 ### **Product Listing**  
-![Product Listing Screenshot](https://raw.githubusercontent.com/ARMAN8910/ecommerce/your-hash/products.png)  
+![Product Listing Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p5.png)  
 
 ### **Product Details**  
-![Product Details Screenshot](https://raw.githubusercontent.com/ARMAN8910/ecommerce/your-hash/product-details.png)  
+![Product Details Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p6.png)  
+![Product Details Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p7.png)  
+
 
 ### **Cart Management**  
-![Cart Screenshot](https://raw.githubusercontent.com/ARMAN8910/ecommerce/your-hash/cart.png)  
+![Cart Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p8.png)  
 
 ### **Order Summary**  
-![Order Summary Screenshot](https://raw.githubusercontent.com/ARMAN8910/ecommerce/your-hash/order-summary.png)  
+![Order Summary Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p9.png)  
 
 ### **Admin Panel**  
-![Admin Panel Screenshot](https://raw.githubusercontent.com/ARMAN8910/ecommerce/your-hash/admin-panel.png)  
+![Admin Panel Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p9.png)  
 
 ---
 
