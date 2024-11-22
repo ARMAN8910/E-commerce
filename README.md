@@ -77,8 +77,8 @@ The website is built as a full-stack application where the frontend, backend, an
 ### **Cart Management**  
 ![Cart Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p8.png)  
 
-### **Order Summary**  
-![Order Summary Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p9.png)  
+### **Database**  
+![Order Summary Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a909a8191d03cfd9ae05dee204db89cca4332ee2/p10.png)  
 
 ### **Admin Panel**  
 ![Admin Panel Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p9.png)  
