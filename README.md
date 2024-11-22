@@ -28,7 +28,7 @@ Welcome to the **E-commerce Website**, a full-stack platform built with the MERN
 - **Spring Data JPA:** For ORM and database access.  
 
 ### Database  
-- **MySQL:** Relational database for storing application data.  
+- **MongoDb:** Relational database for storing application data.  
 
 ---
 
@@ -45,7 +45,7 @@ The website is built as a full-stack application where the frontend, backend, an
    - **Spring Security** handles authentication and authorization for API endpoints.  
 
 ### 3. **Database:**  
-   - **MySQL** stores user, product, and order data efficiently.  
+   - **MongoDB** stores user, product, and order data efficiently.  
    - Ensures fast retrieval and updates for dynamic user interactions.  
 
 ---
@@ -78,7 +78,4 @@ You can access the backend of the E-commerce website here: [E-commerce Backend](
 
 ---
 
-## 📜 License  
-
-This project is licensed under the **MIT License**.  
 
