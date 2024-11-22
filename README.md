@@ -6,7 +6,10 @@ Welcome to the **E-commerce Website**, a full-stack platform built with the MERN
 🎥 Video Explanation
 Watch the detailed explanation of the project here.
 
-[Watch the Demo Video](https://drive.google.com/file/d/1x1Mx_BnOusDa875OR8bdUOqV1XwqqBIe/view?usp=sharing)
+[Watch the Demo Video](https://drive.google.com/file/d/1cKC7CFBbMq1APaC7JBxG0X6Fog9w3gea/view?usp=sharing)
+
+[Watch MongoDb connection Establishment](https://drive.google.com/file/d/1xdSimYu2K_dA4VReyMZTx9X1M3bMSOsj/view?usp=sharing)
+
 
 -----
 
@@ -64,30 +67,30 @@ The website is built as a full-stack application where the frontend, backend, an
 ![Homepage Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p3.png) 
  
 ![Homepage Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p4.png)  
-
+<br />
 
 ### **Product Listing**  
 ![Product Listing Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p5.png)  
-
+<br />
 ### **Product Details**  
 ![Product Details Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p6.png)  
 ![Product Details Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p7.png)  
-
+<br />
 
 ### **Cart Management**  
 ![Cart Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p8.png)  
-
+<br />
 ### **Database**  
 ![Order Summary Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a909a8191d03cfd9ae05dee204db89cca4332ee2/p10.png)  
-
+<br />
 ### **Admin Panel**  
 ![Admin Panel Screenshot](https://github.com/ARMAN8910/E-commerce/blob/a32150b3bf906766f4e7aea8cd320f6cb1874bfd/p9.png)  
 
 ---
-
+<br />
 ## 🔗 Backend Link  
 
-You can access the backend of the E-commerce website here: [E-commerce Backend](https://github.com/ARMAN8910/ecommerce-backend)  
+You can access the backend of the E-commerce website here: [E-commerce Backend](https://github.com/ARMAN8910/E-commerce-BackEnd)  
 
 ---
 
